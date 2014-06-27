@@ -1,0 +1,6 @@
+name: Autolinker
+version: 0.1.0
+author: hackcave <hackers@hackcave.org>
+homepage: https://github.com/hackcave
+description:
+    Port of Autolinker.js to dart
